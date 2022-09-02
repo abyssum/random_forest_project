@@ -1,1 +1,1 @@
-# Template for Machine Learning projects
+# Predicting Titanic survival using Random Forest
